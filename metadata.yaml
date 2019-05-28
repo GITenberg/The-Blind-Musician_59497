@@ -1,0 +1,48 @@
+_repo: The-Blind-Musician_59497
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kennan, George
+    birthdate: &id001 1845
+    deathdate: 1924
+    gutenberg_agent_id: '4318'
+    url: http://www.gutenberg.org/2009/agents/4318
+    wikipedia: http://en.wikipedia.org/wiki/George_Kennan_%28explorer%29
+  illustrator:
+    agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: &id002 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+  translator:
+    agent_name: Delano, Aline
+    alias: Delano, Aline P. Kuzmishcheva
+    birthdate: *id001
+    gutenberg_agent_id: '42191'
+    url: http://www.gutenberg.org/2009/agents/42191
+creator:
+  author:
+    agent_name: Korolenko, Vladimir Galaktionovich
+    alias: Короленко, Владимир Галактионович
+    birthdate: *id002
+    deathdate: 1921
+    gutenberg_agent_id: '5088'
+    url: http://www.gutenberg.org/2009/agents/5088
+    wikipedia: http://en.wikipedia.org/wiki/Vladimir_Korolenko
+description: ''
+gutenberg_issued: '2019-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59497'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Blind Musician
+url: http://www.gutenberg.org/ebooks/59497
