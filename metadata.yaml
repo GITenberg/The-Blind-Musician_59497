@@ -1,9 +1,9 @@
 _repo: The-Blind-Musician_59497
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Kennan, George
-    birthdate: &id001 1845
+    birthdate: 1845
     deathdate: 1924
     gutenberg_agent_id: '4318'
     url: http://www.gutenberg.org/2009/agents/4318
@@ -13,7 +13,7 @@ contributor:
     aliases:
     - Garrett, Edmund Henry
     - Garrett, E. H. (Edmund Henry)
-    birthdate: &id002 1853
+    birthdate: 1853
     deathdate: 1929
     gutenberg_agent_id: '32199'
     url: http://www.gutenberg.org/2009/agents/32199
@@ -21,19 +21,24 @@ contributor:
   translator:
     agent_name: Delano, Aline
     alias: Delano, Aline P. Kuzmishcheva
-    birthdate: *id001
+    birthdate: 1845
     gutenberg_agent_id: '42191'
     url: http://www.gutenberg.org/2009/agents/42191
+covers:
+- cover_type: archival
+  image_path: 59497-h/images/cover.jpg
 creator:
   author:
     agent_name: Korolenko, Vladimir Galaktionovich
     alias: Короленко, Владимир Галактионович
-    birthdate: *id002
+    birthdate: 1853
     deathdate: 1921
     gutenberg_agent_id: '5088'
     url: http://www.gutenberg.org/2009/agents/5088
     wikipedia: http://en.wikipedia.org/wiki/Vladimir_Korolenko
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59497#The-Blind-Musician
 gutenberg_issued: '2019-05-13'
 gutenberg_type: Text
 identifiers:
